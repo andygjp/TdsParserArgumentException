@@ -6,7 +6,8 @@ using Microsoft.EntityFrameworkCore;
 
 Console.WriteLine("Hello, world!");
 
-var connStr = "";
+var pword = "your password";
+var connStr = $"Server=localhost;Database=TdsParserArgumentException;User Id=SA;Password={pword};Encrypt=False;";
 var options = new DbContextOptionsBuilder<Context>().UseSqlServer(connStr).Options;
 var context = new Context(options);
 context.Database.EnsureCreated();
