@@ -12,9 +12,20 @@ var options = new DbContextOptionsBuilder<Context>().UseSqlServer(connStr).Optio
 var context = new Context(options);
 context.Database.EnsureCreated();
 
-context.Data.Add(new Data());
-
+context.Data.Add(new Data { Factor = 0.001M });
 context.SaveChanges();
+Console.WriteLine("Works");
+
+try
+{
+    context.Data.Add(new Data());
+    context.SaveChanges();
+}
+catch
+{
+    Console.WriteLine("Fails");
+    throw;
+}
 
 class Data
 {
