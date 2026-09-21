@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0f3a157-425f-463e-b19f-44f4cb534dba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andygjp&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/andygjp/TdsParserArgumentException.git&quot;,
+    &quot;accountId&quot;: &quot;3f20f4de-6bda-44fc-90fd-a72af10d1fae&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/andrewpattison/Library/Application Support/JetBrains/Rider2026.2/scratches/scratch_2.sql" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3614516004646817" />
+      <entry key="MS500" value="2.6367622857907227" />
+      <entry key="S2" value="5.02759274613542" />
+      <entry key="S5" value="6.838726544582825" />
+      <entry key="S10" value="8.278057583509153" />
+      <entry key="S30" value="9.880845809821738" />
+      <entry key="S60" value="10.408144697087883" />
+      <entry key="M2" value="10.739517584597365" />
+      <entry key="M5" value="12.878030949907629" />
+      <entry key="M10" value="21.925923891170797" />
+      <entry key="M15" value="31.923400257170172" />
+      <entry key="M30" value="52.50179577550249" />
+      <entry key="H1" value="70.17276838717784" />
+      <entry key="H2" value="81.85685478473039" />
+      <entry key="H4" value="88.58994193285464" />
+      <entry key="D1" value="94.71507513775353" />
+      <entry key="W1" value="95.81517711550146" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.9699545471834567E-109" />
+      <entry key="S5" value="3.294446697295593E-44" />
+      <entry key="S10" value="1.8152164501558715E-22" />
+      <entry key="S30" value="6.024485157995682E-8" />
+      <entry key="S60" value="3.398698402296303E-4" />
+      <entry key="M2" value="0.03760065051857513" />
+      <entry key="M5" value="1.2753994607962373" />
+      <entry key="M10" value="5.891721192634238" />
+      <entry key="M15" value="10.325069920902402" />
+      <entry key="M30" value="18.531657417089594" />
+      <entry key="H1" value="25.035828278069552" />
+      <entry key="H2" value="29.157107967942164" />
+      <entry key="H4" value="31.48064738103552" />
+      <entry key="D1" value="33.565800446688534" />
+      <entry key="W1" value="33.93761145800522" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3031589215104689" />
+      <entry key="MS500" value="2.5419088104371275" />
+      <entry key="S2" value="4.581542440475045" />
+      <entry key="S5" value="6.38191972791943" />
+      <entry key="S10" value="7.93383699771271" />
+      <entry key="S30" value="9.72327669352816" />
+      <entry key="S60" value="10.32263809551687" />
+      <entry key="M2" value="10.731504660018794" />
+      <entry key="M5" value="14.12699765600009" />
+      <entry key="M10" value="27.79024996296873" />
+      <entry key="M15" value="42.22105706053639" />
+      <entry key="M30" value="71.01121627422081" />
+      <entry key="H1" value="95.19408085644343" />
+      <entry key="H2" value="111.00562594829854" />
+      <entry key="H4" value="120.06611642967188" />
+      <entry key="D1" value="128.28008453244533" />
+      <entry key="W1" value="129.7526744048189" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Jd4ZWQvCmupe9hPWA9NI4JNl1w" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.mcpserver.settings.filter"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "AZURE"
+    ]
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0f3a157-425f-463e-b19f-44f4cb534dba" name="Changes" comment="" />
+      <created>1789977668321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789977668321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
